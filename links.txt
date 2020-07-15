@@ -1,0 +1,4 @@
+Base de dados obtidos de https://github.com/mdeff/fma e https://github.com/priya-dwivedi/Music_Genre_Classification (https://os.unil.cloud.switch.ch/fma/fma_small.zip) 
+Base de dados processada obtida de https://drive.google.com/drive/u/0/folders/1-PTQBiz6E53uUa9LebHjds_ZQesRHEqx
+Metadados obtidos de https://os.unil.cloud.switch.ch/fma/fma_metadata.zip
+Codigo fonte gerado a partir de https://github.com/priya-dwivedi/Music_Genre_Classification 
